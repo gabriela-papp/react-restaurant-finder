@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.form{
+	width: 50%;
+	margin:auto;
+
+}
+.search-field{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.button{
+	display:block;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.panel{
+	width: 60%;
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+
+
+
+
+
